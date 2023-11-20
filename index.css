@@ -4,13 +4,18 @@ body {
     background-color: aqua;
     font-family: 'Pixelify Sans', sans-serif;
   }
-
+  .search-container{
+    
+    height: 20vh;
+  }
   .result{
+    margin-top: 20%;
     height: 20vh;
   }
   p {
     font-size: 24px;
   }
+
   button {
     border-radius: 20px;
     font-size: 20px;
