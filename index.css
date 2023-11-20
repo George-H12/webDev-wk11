@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    padding: 20px;
+    background-color: aqua;
+    font-family: 'Pixelify Sans', sans-serif;
+  }
+
+  .result{
+    height: 20vh;
+  }
+  p {
+    font-size: 24px;
+  }
+  button {
+    border-radius: 20px;
+    font-size: 20px;
+    padding: 10px;
+    background-color: aquamarine;
+    cursor: pointer;
+    font-family: 'Pacifico', cursive;
+    transition: ease-in-out;
+  }
+
+  button:hover{
+    background-color: brown;
+    color: aquamarine;
+  }
+  
